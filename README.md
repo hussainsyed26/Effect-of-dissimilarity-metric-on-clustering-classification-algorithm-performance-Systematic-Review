@@ -6,3 +6,5 @@ This work was done as a research module (in my MSc) to demonstrate research writ
 The results of this review indicate that the effect of the choice of a distance/similarity/dissimilarity metric on the performance of the clustering/classification algorithm is dependent on the type of data and the task being dealt with. Also, Domain-based modified (or derived or anomalous) distance/similarity/dissimilarity metrics produce better clustering/classification results.
 
 Future work will involve undertaking a trial or experiment.
+
+Please find the attached feedback files for each deliverable of the work
