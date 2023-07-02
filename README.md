@@ -1,5 +1,4 @@
-# Effect-of-dissimilarity-metric-on-clustering-classification-algorithm-performance-Systematic-Review
-A Systematic Literature Review of the effect of choice of a distance/similarity/dissimilarity metric on the performance evaluation of a clustering/classification algorithm: 
+# A Systematic Literature Review of the effect of choice of a distance/similarity/dissimilarity metric on the performance evaluation of a clustering/classification algorithm
 
 This work was done as a research module (in my MSc) to demonstrate research writing abilities and explore a potential gap in the existing research, the context of which is mainly reviewing the effect of the choice of a distance/similarity/dissimilarity measure on clustering/classification algorithm performance. The work follows the guidelines for performing Systematic Literature Reviews in Software Engineering proposed by Kitchenham.
 
