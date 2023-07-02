@@ -1,0 +1,29 @@
+$group
+[1] "group 93"
+
+$members
+[1] "Bilal Farooqi"            "Z Hussain Syed"          
+[3] "Waseem Uddin Mohammed"    "Ananth Mohan Reddy Sudey"
+
+$topic
+[1] "Dissimilarity Metric influence on Clustering/Classification Performance"
+
+$RQ
+[1] "Does the choice of a dissimilarity metric effect the performance evaluation of a clustering/classification algorithm"
+
+$context
+[1] "clustering/classification performance"
+
+$intervention
+[1] "different dissimilarity measures"
+
+$population
+[1] "clustering/classification algorithms"
+
+$comparison
+[1] "certain clustering/classification algorithms"
+
+$outcome
+[1] "clustering/classification performance metrics"
+
+OK
