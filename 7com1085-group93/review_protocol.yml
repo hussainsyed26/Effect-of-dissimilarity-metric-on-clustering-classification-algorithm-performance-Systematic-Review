@@ -1,0 +1,19 @@
+# Please write your group name as it appears on Canvas.
+group: group 93
+# Write your search string, on one line, after testing it using the IEEEXplore command search window.
+search_string: (impact OR effect) AND (comparison OR different) AND ("dissimilarity metric*" OR "dissimilarity measure*" OR "similarity measure*" OR "similarity metric*" OR "distance metric*" OR "distance measure*") AND (cluster OR clustering algorithm OR "clustering performance" OR "classification performance")
+# Write the number of papers identified by your search string when you test it using the IEEEXplore command search window.
+num_papers: 110
+# Write up to five inclusion criteria.  Write each criterion, on a single line, after one the hyphens ('-').  Be sure to preserve the indentation of the hyphenated lines.
+# Remove empty hyphentated lines; add more if you really need them.
+inclusion_criteria:
+    - include papers that talk about the impacts or effects of dissimilarity or similarity or distance measures on clustering or classification
+    - include papers that addresses the research question in any way in a particular domain of application
+	- include papers that compares different dissimilarity or similarity or distance measures
+	- include papers that compares the performance of a clustering or classification algorithm if or when different dissimilarity or similarity or distance measures are used
+    - included papers must be in English
+# Write up to five exclusion criteria.  Write each criterion, on a single line, after one of the hyphens ('-').  Be sure to preserve the indentation of the hyphenated lines.
+# Remove empty hyphentated lines; add more if you really need them.
+exclusion_criteria:
+    - exclude opinion papers
+    - exclude duplicate papers
