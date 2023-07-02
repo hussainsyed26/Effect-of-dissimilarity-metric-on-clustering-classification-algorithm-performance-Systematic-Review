@@ -7,4 +7,4 @@ The results of this review indicate that the effect of the choice of a distance/
 
 Future work will involve undertaking a trial or experiment.
 
-Please find the attached feedback files for each deliverable of the work
+Please find the attached feedback files for each deliverable of the work.
